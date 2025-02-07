@@ -1,2 +1,3 @@
-# aaaditri-demo
+# aaditri-demo
 This is my first git repository.
+Author-Aaditri Dutta

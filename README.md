@@ -1,4 +1,4 @@
 # aaditri-demo
 This is my first git repository.
 <br>
-Author-Aaditri Dutta
+Author-Aaditri(neogen)
